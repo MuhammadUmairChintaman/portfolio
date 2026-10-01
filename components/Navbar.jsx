@@ -54,7 +54,7 @@ export default function Navbar() {
 
                 <a href="">
                  
-                    <img src="/assets/logo_dark.png" alt="Logo" className="w-28 cursor-pointer mr-14 hidden dark:block" />
+                    <img src="" alt="" className="w-28 cursor-pointer mr-14 hidden dark:block" />
                 </a>
 
                 <ul ref={navLinkRef} className="hidden md:flex items-center gap-6 lg:gap-8 rounded-full px-12 py-3 bg-white shadow-sm bg-opacity-50 font-Ovo dark:border dark:border-white/30 dark:bg-transparent ">
